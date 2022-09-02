@@ -1,1 +1,1 @@
-directory to the user’s home directory
+bring me home

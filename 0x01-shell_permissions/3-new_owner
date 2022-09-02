@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo jane betty hello
+su chown betty hello

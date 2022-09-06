@@ -1,1 +1,1 @@
-A to Z
+ script that removes all letters c and C from input

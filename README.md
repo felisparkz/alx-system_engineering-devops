@@ -1,1 +1,1 @@
-current working dir
+Create a script that creates an alias

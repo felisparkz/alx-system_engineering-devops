@@ -1,1 +1,1 @@
-script that creates a new global variable
+7-create_global_variable

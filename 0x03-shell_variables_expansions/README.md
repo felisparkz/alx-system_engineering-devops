@@ -1,1 +1,1 @@
-Everyone is a proponent of strong encryption
+script that prints every other line from the input, starting with the first line
